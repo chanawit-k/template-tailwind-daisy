@@ -6,4 +6,6 @@
 
 - `npm install`
 - `npm run dev`
-- remove exist git -`del /F /S /Q /A .git`
+- remove exist git
+
+  -`del /F /S /Q /A .git`
